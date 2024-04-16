@@ -1,6 +1,7 @@
 # Flappy Bird 
 
-![download](https://user-images.githubusercontent.com/91725214/157507928-89f85910-8ef5-4414-be13-faaa2c43a034.jpg)
+https://github.com/VINAY-SAINI/FLAPPY-BIRD/assets/65601865/0959b34e-ac8d-42f2-b6df-773c9799ab0e
+
 #### 
 ----
 
