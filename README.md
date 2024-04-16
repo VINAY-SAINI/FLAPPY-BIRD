@@ -1,9 +1,9 @@
+
+---
+
 # Flappy Bird 
 
-https://github.com/VINAY-SAINI/FLAPPY-BIRD/assets/65601865/0959b34e-ac8d-42f2-b6df-773c9799ab0e
-
-#### 
-----
+![Flappy Bird](https://github.com/VINAY-SAINI/FLAPPY-BIRD/assets/65601865/5242db8b-7b96-415a-8695-c870d68579a5)
 
 Flappy Bird is an addictive arcade-style game where players control a bird named Faby, who persistently moves to the right. The objective is to navigate Faby through pairs of pipes with equally sized gaps placed at random heights.
 
@@ -13,7 +13,7 @@ Flappy Bird is an addictive arcade-style game where players control a bird named
 - **Avoid Obstacles:** Navigate Faby through the gaps between pipes. Colliding with a pipe or the ground ends the game.
 - **Score Points:** Each successful pass through a pair of pipes awards the player one point.
 - **Challenge Yourself:** See how far you can guide Faby without crashing, and aim for a high score.
----
+
 ## How to Play:
 
 1. Clone the repository to your local machine.
@@ -23,4 +23,3 @@ Flappy Bird is an addictive arcade-style game where players control a bird named
 5. Have fun and enjoy the addictive gameplay of Flappy Bird!
 
 ---
-
